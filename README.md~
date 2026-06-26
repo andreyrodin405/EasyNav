@@ -1,4 +1,5 @@
-Throughout the whole repository those measuremet units are applied:
+
+
 acceleration in         (m/s/s)
 gyro rate in            (rad/s)
 orientation angles in   (radians)
